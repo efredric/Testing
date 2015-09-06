@@ -1,1 +1,1 @@
-#Hello world eric
+#This is a comment.
